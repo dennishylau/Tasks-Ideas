@@ -1,0 +1,55 @@
+App
+	Calendar
+	Rating system
+	Referrer's List + Respective notification
+	Map view for address input
+	Detect 還價xxx萬 and make suggestions
+	Admin chat auto reply after office hour: 很抱歉，今天的辦公時間已過，我們可能無法立刻回應您的查詢。您留下的訊息，客戶服務主任將會盡快回覆。感謝您的諒解。
+
+Marketing
+First tier:
+	SEO
+	Adwords
+	Blog
+		Weekly news break down
+		Know-hows: 生活小法寶：書檯儲物篇
+		How-tos: 弊喇，點算好😖😖😖：冷氣機滴水篇
+	Social networks
+		Facebook: post property info, double post blog posts, offer people discounts if they are willing to leave positive comments on our page
+		Google+: mirror facebook profile
+		WeChat: 訂閱帳戶 post properties
+		Instagram: property pics
+		Tumblr: can double post instagram contents
+		SnapChat: pics and videos for featured properties
+		WhatsApp: direct message (use at discretion)
+		LinkedIn: my profile
+		Skype: Customer service maybe?
+		QQ
+		Weibo
+		Renren
+	Major forums
+		Discuss: ads
+		uWants: ads
+		高登: request for permission to do discussion
+		LIHKG: request for permission to do discussion
+	Local forums
+		Possible strategy/deal:
+			For each of their referral, split revenue; seller who puts in their url as referrer, extra bonus
+			Less preferably, ads
+		TKO Home & Associates
+			日出康城／峻瀅：http://www.tkohome.com
+			天晉：http://www.thewingshk.com
+				物業租售：http://www.thewingshk.com/forumdisplay.php?fid=18
+			名城：http://www.hkfestivalcity.com
+				物業租售：http://www.hkfestivalcity.com/forumdisplay.php?fid=18
+			都會駅：http://www.hkmetrotown.com
+				物業租售：http://www.hkmetrotown.com/forumdisplay.php?fid=27&sid=o9EOQv
+		TKO Discuss
+	Physical presence
+	Recruit University students
+Tier 2
+	Partnership with real estate agencies
+	Other digital medium ads
+	Physical medium ads
+	TV ads
+	Youtube personality
