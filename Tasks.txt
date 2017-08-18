@@ -4,6 +4,7 @@ Launch android app
 Launch FB page
 Clear DB for launch
 Figure out a god damn marketing plan
+Get business card
 
 To-do
 # App
