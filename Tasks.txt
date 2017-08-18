@@ -2,6 +2,7 @@ Urgent
 Design TV ads
 Launch android app
 Launch FB page
+Clear DB for launch
 Figure out a god damn marketing plan
 
 To-do
