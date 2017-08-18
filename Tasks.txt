@@ -1,4 +1,7 @@
 Urgent
+Design TV ads
+Launch android app
+Launch FB page
 Figure out a god damn marketing plan
 
 To-do
@@ -24,12 +27,13 @@ buy printer
 deal with water leakage
 Egoart WR1 form
 put up BR
-purchase insurance
 Setup tv
 setup tv timer
-Get some chairs
 
 Done
+20170818 Print cards
+20170818 Get some chairs
+20170818 purchase insurance
 PP, T&C
 Banner
 Banner details (tab 2 html + phone number; tab 3,4 html)
