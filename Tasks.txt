@@ -1,8 +1,7 @@
 Urgent
-Design TV ads
-Launch FB page
+Update website banner
 Figure out a god damn marketing plan
-Get business card
+Setup Google My Business
 
 To-do
 # App
@@ -31,6 +30,12 @@ Setup tv
 setup tv timer
 
 Done
+20170819 Design TV ads
+20170819 Launch FB page
+20170819 Fix SMS verification
+20170819 Get business card
+20170819 Cover up the light box
+20170819 Update Android screenshot phone
 20170819 Launch android app
 20170819 Admin counts 1-100
 20170819 Clear DB for launch
