@@ -1,8 +1,6 @@
 Urgent
 Design TV ads
-Launch android app
 Launch FB page
-Clear DB for launch
 Figure out a god damn marketing plan
 Get business card
 
@@ -33,22 +31,9 @@ Setup tv
 setup tv timer
 
 Done
+20170819 Launch android app
+20170819 Admin counts 1-100
+20170819 Clear DB for launch
 20170818 Print cards
 20170818 Get some chairs
 20170818 purchase insurance
-PP, T&C
-Banner
-Banner details (tab 2 html + phone number; tab 3,4 html)
-Before sale
-After sale
-First launch Tutorial (low priority) (jpg)
-setup CCTV email alert
-Reinforce signage board top white cover
-Internal middle partition lock not properly positioned
-Cupboard bottom lock
-Adjust lamps height
-Lightbox lock (cannot)
-Tighten door handle screw (cannot)
-Give me back the door keys
-Buy and install door lock
-Get a smaller monitor for CCTV (nevermind)
