@@ -1,6 +1,6 @@
 Urgent
 Update website banner
-Update website pages: mortgage calculator, bank mortgage estimate 
+Update website useful link pages: mortgage calculator, bank mortgage estimate 
 Figure out a god damn marketing plan
 Setup Google My Business
 Set up ip phone unavailable recording
@@ -8,6 +8,8 @@ Set up ip phone unavailable recording
 To-do
 # App
 Mortgage cost estimate
+
+# Website
 
 # Design
 Lightbox slides (2 slides, external:405x783, internal:385x760)
@@ -25,13 +27,14 @@ Yahoo SEO
 # Shop
 Buy and install computer lock
 buy printer
+buy usb 3-in-1 charging cables
 deal with water leakage
 Egoart WR1 form
-put up BR
-Setup tv
-setup tv timer
 
 Done
+20170820 put up BR
+20170820 Setup tv
+20170820 setup tv timer
 20170819 Design TV ads
 20170819 Launch FB page
 20170819 Fix SMS verification
