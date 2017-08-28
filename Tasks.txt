@@ -1,10 +1,12 @@
 # Urgent
-Buy door signs
 Update website banner
 Update website useful link pages: mortgage calculator, bank mortgage estimate 
 Figure out a god damn marketing plan
 Set up ip phone unavailable recording
-Setup Google My Business
+DB update method
+Add procedure
+Mod procedure
+Expand single-record estate procedure
 
 To-do
 # App
@@ -31,6 +33,8 @@ deal with water leakage
 Egoart WR1 form
 
 Done
+20170823 Buy door signs
+20170823 Setup Google My Business
 20170821 buy chairs
 20170821 buy printer
 20170821 buy usb 3-in-1 charging cables
