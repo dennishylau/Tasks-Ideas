@@ -1,11 +1,12 @@
 # Urgent
+write down CMS table display order
 Update website banner
 Update website useful link pages: mortgage calculator, bank mortgage estimate 
 Figure out a god damn marketing plan
 Set up ip phone unavailable recording
 DB update method
-Add procedure
-Mod procedure
+Add procedure direct write into db
+Mod procedure export from db then edit in numbers, then copy and paste back in batch, make sure id is correct
 Expand single-record estate procedure
 
 To-do
