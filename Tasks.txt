@@ -1,15 +1,15 @@
 # Urgent
+Update address DB
+Prepare admin chat web app spec
 write down CMS table display order
-Update website banner
-Update website useful link pages: mortgage calculator, bank mortgage estimate 
+Update website banner 
 Figure out a god damn marketing plan
-Set up ip phone unavailable recording
-DB update method
-Add procedure direct write into db
-Mod procedure export from db then edit in numbers, then copy and paste back in batch, make sure id is correct
-Expand single-record estate procedure
+Get ParkNShop coupons
 
 To-do
+# Strategic
+Contact lawyers
+
 # App
 Mortgage cost estimate
 
@@ -20,20 +20,22 @@ Lightbox slides (2 slides, external:405x783, internal:385x760)
 TV slides
 
 # Procedures
+Add, mod, delete address / property
 Transaction protocol (including special cases such as 已補地價居屋，未補地價（綠表）居屋，公屋，村屋 etc)
 
 # Marketing
-Get ParkNShop coupons
 Google Adwords
 Google SEO
 Yahoo SEO
 
 # Shop
-Buy and install computer lock
 deal with water leakage
-Egoart WR1 form
+Egoart WR1 form + work permit
 
 Done
+20170905 Buy and install computer lock
+20170905 Update website useful link pages: mortgage calculator, bank mortgage estimate
+20170905 Set up ip phone unavailable recording
 20170823 Buy door signs
 20170823 Setup Google My Business
 20170821 buy chairs
