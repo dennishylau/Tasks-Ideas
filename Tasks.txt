@@ -1,12 +1,17 @@
-# Urgent
-Update address DB
+### Today ###
+Excel CMS automated import
+Update regions
 Prepare admin chat web app spec
-write down CMS table display order
-Update website banner 
-Figure out a god damn marketing plan
-Get ParkNShop coupons
 
-To-do
+# Urgent
+Update website banner 
+Update TV slides
+Figure out a god damn marketing plan
+
+# FollowUp
+Get ParkNShop coupons; prepare authorisation slip
+
+--------------------To-do--------------------
 # Strategic
 Contact lawyers
 
@@ -32,7 +37,8 @@ Yahoo SEO
 deal with water leakage
 Egoart WR1 form + work permit
 
-Done
+--------------------Done--------------------
+20170906 Update address DB; awaiting James update20170905 write down CMS table display order
 20170905 Buy and install computer lock
 20170905 Update website useful link pages: mortgage calculator, bank mortgage estimate
 20170905 Set up ip phone unavailable recording
