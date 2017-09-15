@@ -1,4 +1,5 @@
 App
+	Design a better search algorithm, for ideas https://www.algolia.com/doc/guides/getting-started/what-is-algolia/
 	Calendar
 	Rating system
 	Referrer's List + Respective notification
