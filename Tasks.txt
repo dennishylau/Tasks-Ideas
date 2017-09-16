@@ -1,18 +1,17 @@
 ### Today ###
-TV slide for PNS coupon
+Update website banner
 Design coupon redemption procedure
-update banner content with facebook chat contact; make android webview open links externally
 update website with lawyer info
 Contact lawyers
 
 # Urgent
 Excel CMS automated import
-Update website banner
-Update TV slides
 Figure out a god damn marketing plan
 
 # FollowUp
+update banner content with facebook chat contact; have share make android webview open links externally
 admin chat web app spec waiting share media quote
+Change TV slide for PNS coupon
 
 --------------------To-do--------------------
 # Strategic
