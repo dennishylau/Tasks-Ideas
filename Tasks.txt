@@ -1,5 +1,6 @@
 ### Today ###
 Update website banner
+Update website banner content
 Design coupon redemption procedure
 update website with lawyer info
 Contact lawyers
