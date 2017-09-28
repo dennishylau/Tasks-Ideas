@@ -1,18 +1,15 @@
 ### Today ###
 Update website banner to promote app and coupon
-Update website banner content
 Design coupon redemption procedure
-update website with lawyer info
-Contact lawyers
 
 # Urgent
 Excel CMS automated import
 Figure out a god damn marketing plan
 
 # FollowUp
-update banner content with facebook chat contact; have share make android webview open links externally
 admin chat web app spec waiting share media quote
-Change TV slide for PNS coupon
+Put up TV slide for PNS coupon
+Put up website banner content
 
 --------------------To-do--------------------
 # Strategic
@@ -40,7 +37,13 @@ deal with water leakage
 Egoart WR1 form + work permit
 
 --------------------Done--------------------
-update banner content app tutorial
+20170928 Update website banner content
+20170928 Design TV slide for PNS coupon
+20170928 update banner content with whatsapp chat contact; have share make android webview open links externally
+20170928 Write terms for coupon done
+20170928 Contact lawyers never mind for now
+20170928 updated promotion terms
+20170928 update banner content app tutorial
 20170913 Pickup ParkNShop coupons
 20170909 Update regions
 20170906 Update address DB; awaiting James update20170905 write down CMS table display order

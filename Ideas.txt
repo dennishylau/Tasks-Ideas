@@ -1,4 +1,5 @@
 App
+	Issues with multi-login, what if person A changed phone number, and the old number is reused by person B
 	Design a better search algorithm, for ideas https://www.algolia.com/doc/guides/getting-started/what-is-algolia/
 	Calendar
 	Rating system
