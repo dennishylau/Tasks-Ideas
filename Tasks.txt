@@ -1,15 +1,16 @@
 ### Today ###
-Update website banner to promote app and coupon
-Design coupon redemption procedure
+Update banners
+Update Excel VBA
 
 # Urgent
-Excel CMS automated import
 Figure out a god damn marketing plan
 
 # FollowUp
+write a pmset + crontab setup for xlsm backup
 admin chat web app spec waiting share media quote
 Put up TV slide for PNS coupon
 Put up website banner content
+Verify coupon redemption procedure
 
 --------------------To-do--------------------
 # Strategic
