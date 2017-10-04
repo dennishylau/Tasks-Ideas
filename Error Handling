@@ -1,0 +1,5 @@
+What if SMS verification fails?
+    1. Apologize
+    2. Tell user to leave username & phone number
+    3. Tell user we'll call back immediately
+    4. CMS -> Search Phone No. -> Info -> Verification Code

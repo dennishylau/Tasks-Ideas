@@ -1,6 +1,11 @@
 ### Today ###
-Update banners
-Update Excel VBA
+Make spare toilet keys
+Get money into bank account
+ask for property suggestion correlation code
+Clean up property info db
+Put up TV slide for PNS coupon
+Setup Algolia ambiguity
+Vulgur filter
 
 # Urgent
 Figure out a god damn marketing plan
@@ -8,8 +13,6 @@ Figure out a god damn marketing plan
 # FollowUp
 write a pmset + crontab setup for xlsm backup
 admin chat web app spec waiting share media quote
-Put up TV slide for PNS coupon
-Put up website banner content
 Verify coupon redemption procedure
 
 --------------------To-do--------------------
@@ -38,6 +41,12 @@ deal with water leakage
 Egoart WR1 form + work permit
 
 --------------------Done--------------------
+20171002 Setup multi whatsapp on mac
+20171002 Setup chrome auto refresh
+20171002 Put up faq
+20171002 Put up website banner content
+20171002 Update Excel VBA
+20171002 Update banners
 20170928 Update website banner content
 20170928 Design TV slide for PNS coupon
 20170928 update banner content with whatsapp chat contact; have share make android webview open links externally

@@ -1,0 +1,125 @@
+Before sign in
+    Open in browser -> resbo.app.link
+
+    Share App
+    FAQ -> Tabs
+    Suggestion -> Send
+    PP
+    Terms
+    Tech support -> Send
+    About
+
+    Login from fav
+    Login from my properties
+    Login from account
+
+    A) List property -> login
+    B) Search -> add fav
+    B) Search -> login from chat
+    C) Search -> report property
+
+Home
+    Banner -> content layout
+    Banner -> button
+    star updating
+    star gives vendor alert
+    variables display accuracy
+
+List property
+    address search
+    camera
+    variables storage accuracy
+
+Search criteria
+    Region
+    District / Ref
+    Price
+    Area
+    Rooms
+    Washroom total
+    Type
+    Maid room
+    parking
+    empty
+    特色
+    觀景
+    設施
+    交通
+    歡迎經紀
+
+Search sorting
+    new - old
+    old - new
+    cheap - expensive
+    expensive - cheap
+    hot
+
+Search item
+    star updating
+    star gives vendor alert
+    variables display accuracy
+
+Search item detail
+    variables display accuracy
+    share property
+    star updating
+    star gives vendor alert
+    related property suggestion
+    report property
+
+Search item chat
+    variables display accuracy
+    report property
+    price negot
+    messaging
+    chat adds star
+
+My fav item list
+    Admin chat
+    Edit
+    Search
+    Price display
+    live mark conversation for unread
+
+My fav item detail
+    report property
+    variables display accuracy
+    related property suggestion
+    share property
+    remove star
+
+My fav chat
+    report property
+    price display
+    price negot
+    conversation list sort by latest message
+    live messaging
+
+My property item list
+    property selection
+    Admin chat
+    archive
+    archived list
+    price negot sorting accuracy
+    conversation list sort by latest message
+    new property
+    live mark conversation for unread
+
+My property item detail
+    Edit price
+    Edit property details
+    Remove property
+    new property
+    variables display accuracy
+    share property
+
+My property chat
+    report user
+    report and block user by archiving
+    price display
+    price negot
+    live messaging
+    
+Account
+    Change phone number
+    change username
