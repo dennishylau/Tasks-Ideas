@@ -1,10 +1,9 @@
 ### Today ###
+Call post office to ask about the details of 通函
+Lightbox slide (call mr leung 23987571 96400294)
+Watch universal app campaign videos
 Make spare toilet keys
-Get money into bank account
 ask for property suggestion correlation code
-Clean up property info db
-Put up TV slide for PNS coupon
-Setup Algolia ambiguity
 Vulgur filter
 
 # Urgent
@@ -41,6 +40,10 @@ deal with water leakage
 Egoart WR1 form + work permit
 
 --------------------Done--------------------
+20171006 Setup Algolia ambiguity
+20171005 Clean up property info db
+20171005 Put up TV slide for PNS coupon
+20171005 Get money into bank account
 20171002 Setup multi whatsapp on mac
 20171002 Setup chrome auto refresh
 20171002 Put up faq
