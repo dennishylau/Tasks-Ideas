@@ -1,4 +1,7 @@
 App
+	support rental
+	if 連租約，option fill in current rent
+	Make space in UI for ads
 	Issues with multi-login, what if person A changed phone number, and the old number is reused by person B
 	Design a better search algorithm using a score based search, for ideas https://www.algolia.com/doc/guides/getting-started/what-is-algolia/
 	Calendar

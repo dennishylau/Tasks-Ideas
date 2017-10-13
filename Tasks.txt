@@ -1,15 +1,30 @@
 ### Today ###
-Call post office to ask about the details of 通函
+app rental spec
+test new ios app
+egoart voucher
+cold call 28db
+香討PM
+
+fix 匡湖居 明園， modded 牛頭角上邨
+[dev] algolia connector loading
+[dev] algolia partial reindexing
+[dev] Ask Share if Algolia Replica Indices are in use
+[dev] batch algolia reindex
+[dev] how to setup aws for snapshots in case server is down
+[dev] ask Share for property suggestion correlation and search code
+Admin message to those who have listed their property
 Lightbox slide (call mr leung 23987571 96400294)
 Watch universal app campaign videos
-Make spare toilet keys
-ask for property suggestion correlation code
 Vulgur filter
+print card with whatsapp
 
 # Urgent
+Open 強積金 account
+Call Clara about signage and wall water leakage
 Figure out a god damn marketing plan
 
 # FollowUp
+Post 通函
 write a pmset + crontab setup for xlsm backup
 admin chat web app spec waiting share media quote
 Verify coupon redemption procedure
@@ -40,6 +55,15 @@ deal with water leakage
 Egoart WR1 form + work permit
 
 --------------------Done--------------------
+20171013 resbo.com.hk/whatsapp redirect
+20171012 changed card contact method from fb to whatsapp
+20171012 completed db from 28hse, ready to deploy
+20171012 some great updates for the apps (better algolia ux)
+20171009 Call post office to ask about the details of 通函
+20171008 Wrote Whatsapp message before cold call
+20171007 Print damn postcards
+20171006 Make spare toilet keys
+20171006 design postcard
 20171006 Setup Algolia ambiguity
 20171005 Clean up property info db
 20171005 Put up TV slide for PNS coupon
