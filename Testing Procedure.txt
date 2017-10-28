@@ -13,7 +13,7 @@ Before sign in
     Login from my properties
     Login from account
 
-    A) List property -> login
+    A*****) List property -> login
     B) Search -> add fav
     B) Search -> login from chat
     C) Search -> report property

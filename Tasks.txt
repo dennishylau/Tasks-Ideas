@@ -1,45 +1,34 @@
-### Today ###
-app rental spec
-test new ios app
-egoart voucher
-cold call 28db
-香討PM
-
-fix 匡湖居 明園， modded 牛頭角上邨
-[dev] algolia connector loading
-[dev] algolia partial reindexing
-[dev] Ask Share if Algolia Replica Indices are in use
-[dev] batch algolia reindex
-[dev] how to setup aws for snapshots in case server is down
-[dev] ask Share for property suggestion correlation and search code
-Admin message to those who have listed their property
-Lightbox slide (call mr leung 23987571 96400294)
-Watch universal app campaign videos
-Vulgur filter
-print card with whatsapp
-
 # Urgent
-Open 強積金 account
-Call Clara about signage and wall water leakage
-Figure out a god damn marketing plan
+20171028 test new app version 1.5.14
+
+### Today ###
+20171026 Read up on Adwords, start doing it the coming week
+Design a better poster for egoart
+20171024 approach fb users
+cold call 28db
+香討PM have to make 50 post before doing anything
+fix 匡湖居 明園， modded 牛頭角上邨
+20171020 Watch universal app campaign videos
 
 # FollowUp
-Post 通函
+20171106 Receive PVC card by now
+20171024 Follow up on apps extension design
 write a pmset + crontab setup for xlsm backup
-admin chat web app spec waiting share media quote
-Verify coupon redemption procedure
+20171026 Clara said temp signage shall be up on 27
+20171020 told Clara about signage and wall water leakage
+20171020 forge alliance with 樓盤車位自讓平台 https://www.facebook.com/groups/458328750939151/about/ for promotion
 
 --------------------To-do--------------------
 # Strategic
 
 # App
 Mortgage cost estimate
+admin chat web app put on hold
 
 # Website
 
 # Design
 Lightbox slides (2 slides, external:405x783, internal:385x760)
-TV slides
 
 # Procedures
 Add, mod, delete address / property
@@ -52,13 +41,31 @@ Yahoo SEO
 
 # Shop
 deal with water leakage
-Egoart WR1 form + work permit
 
 --------------------Done--------------------
+20171028 Send dory the add listing button
+20171028 Send dory the 交吉 filter design
+20171028 Complete wireframe 2nd review
+20171028 Contacted Miss Chow to get PNS coupon
+20171026 Complete app extension wireframe review
+20171026 Started printing PVC cards for egoart
+20171025 Verify coupon redemption procedure
+20171025 Had share media and share innovation signed the undertaking/guarantee. DO NOT MAKE THIS KIND OF MISTAKE AGAIN.
+20171025 Check why cheque 600002 cannot be cashed
+20171024 App Expansion One Contract signed 
+20171024 App Expansion One Contract Drafting
+20171022 Completed all Egoart promotion materials design
+20171020 app rental spec
+20171019 Open 強積金 account with BR CI HKID, employed on 3 Oct
+20171018 Open deal with Share Media, 128000 for rental, delivered by 4 Dec
+20171018 Watsons water
+20171015 print card with whatsapp
 20171013 resbo.com.hk/whatsapp redirect
 20171012 changed card contact method from fb to whatsapp
+20171012 Lightbox slide done
 20171012 completed db from 28hse, ready to deploy
 20171012 some great updates for the apps (better algolia ux)
+20171010 Post 通函
 20171009 Call post office to ask about the details of 通函
 20171008 Wrote Whatsapp message before cold call
 20171007 Print damn postcards

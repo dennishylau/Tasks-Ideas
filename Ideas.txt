@@ -1,4 +1,8 @@
+Feedback
+	#189 梁太太: more pics for interior, possible to cater 2 prices for 白表 綠表
+
 App
+	after scrolling pass all featured properties, auto go to search page
 	support rental
 	if 連租約，option fill in current rent
 	Make space in UI for ads
