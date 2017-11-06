@@ -9,11 +9,13 @@ Before sign in
     Tech support -> Send
     About
 
+Normal Login
     Login from fav
     Login from my properties
     Login from account
 
-    A*****) List property -> login
+Main Screen-Based Login & Actions
+    A) List property -> login
     B) Search -> add fav
     B) Search -> login from chat
     C) Search -> report property

@@ -1,5 +1,4 @@
 # Urgent
-20171028 test new app version 1.5.14
 
 ### Today ###
 20171026 Read up on Adwords, start doing it the coming week
@@ -17,6 +16,7 @@ write a pmset + crontab setup for xlsm backup
 20171026 Clara said temp signage shall be up on 27
 20171020 told Clara about signage and wall water leakage
 20171020 forge alliance with 樓盤車位自讓平台 https://www.facebook.com/groups/458328750939151/about/ for promotion
+fix [web] when compiling, " becomes full character width 全形
 
 --------------------To-do--------------------
 # Strategic
@@ -43,6 +43,11 @@ Yahoo SEO
 deal with water leakage
 
 --------------------Done--------------------
+20171104 test new app version 1.5.14
+20171104 Pay Whampoa Rent 20230.10
+20171031 Put up egoart tv slide
+20171031 Deploy iOS new user add listing bug fix
+20171029 DOne with HKET interview
 20171028 Send dory the add listing button
 20171028 Send dory the 交吉 filter design
 20171028 Complete wireframe 2nd review
